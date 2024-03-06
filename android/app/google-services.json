@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075517446874",
+    "project_id": "labproject-efbaa",
+    "storage_bucket": "labproject-efbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075517446874:android:e9403d6949874006cda3e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV1X8-v2nkPese8U_SCR-niJs1aZqdMUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
